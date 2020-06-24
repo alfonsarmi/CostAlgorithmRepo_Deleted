@@ -10,8 +10,7 @@ namespace ConsoleApp4
     {
         static void Main(string[] args)
         {
-			var classs = new Class1();
-			classs.Caca1();
+			Test();
 
 			var a = 1;
 			var b = 1;
