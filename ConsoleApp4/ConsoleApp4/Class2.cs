@@ -8,6 +8,9 @@ namespace ConsoleApp4
 {
     public class Class2
     {
-
+        private void Test()
+        {
+            var a = 1;
+        }
     }
 }
